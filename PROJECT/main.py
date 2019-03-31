@@ -116,7 +116,6 @@ class Game:
     def show_go_screen(self):
         pass
 
-# create the game object
 g = Game()
 g.show_start_screen()
 while True:
